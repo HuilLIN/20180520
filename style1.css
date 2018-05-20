@@ -1,0 +1,282 @@
+body{
+	margin: 0 0 0 0;
+	width: 100%;
+
+}
+#header{
+	
+}
+#header-top{
+	width: 100%;
+	height: 39vh;
+  	background: url(../img/20171017-02.jpg) no-repeat top;
+}
+#header-bottom{
+	width: 100%;
+	height: 60px;
+	background-color: #5371c9;
+	text-align: center;
+	/*display: inline;*/
+	font-family: "微软雅黑";
+	font-size: 16px;
+	position: relative;
+}
+#bottom-left{
+	clear: both;
+	position: absolute;
+	left: 25vw;
+	top:12px;
+	border-style: solid;
+	border: 1px 1px 1px 1px ;
+	border-color: rosybrown;
+	width: 90px;
+	height: 32px;
+	background-color: rosybrown;
+	line-height: 2em;
+	border-radius: 5px 5px 5px 5px ;
+}
+.sa{
+	text-decoration: none;
+	color: beige;
+}
+#bottom-left:hover{
+	font-size: 14px;
+	width: 90px;
+	height: 32px;
+}
+#bottom-right{
+	
+	line-height: 1em;
+
+}
+#right-top{
+	line-height: 2em;
+}
+#right-bottom{
+	
+}
+.xa{
+	 text-decoration: none;
+	 color: white;
+}
+#contain{
+	width: 100%;
+	height: 800px;
+	background: url(../img/p3_bg.jpg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	margin: 3rem auto;
+	margin-bottom: -50px;
+}
+#con-one{
+	margin-bottom: 20px;
+}
+#con-three{
+	width: 470px;
+}
+#three-left{
+	width: 80%;
+	float:left;
+	margin-left: 50%;
+	font-family: "微软雅黑";
+}
+#left-left p{
+	font-family: "微软雅黑";
+	font-size: 13px;
+	color: #666;
+    line-height: 25px;
+    text-indent: 2em;
+}
+#three-left ul{
+	margin-left: 17%;
+}
+#three-left ul li{
+	font-size: 14px;
+	color: brown;
+	list-style-type: none;
+	text-align: left;
+}
+#three-left ul li a{
+	color: brown;
+	text-decoration: none;
+}
+#three-left ul li a:hover{
+	text-decoration: underline;
+}
+/**
+ * 右边
+ * */
+#three-right{
+	width: 80%;
+	float:left;
+	margin-left: 100%;
+	font-family: "微软雅黑";
+	margin-top: -200px;
+	margin-left:150%;
+}
+#right-right p{
+	width: 400px;
+	text-align: left;
+	font-family: "微软雅黑";
+	font-size: 13px;
+	color: #666;
+    line-height: 25px;
+    text-indent: 2em;
+}
+#three-right ul{
+	margin-left: 17%;
+}
+#three-right ul li{
+	font-size: 14px;
+	color: brown;
+	list-style-type: none;
+	text-align: left;
+}
+#three-right ul li a{
+	color: brown;
+	text-decoration: none;
+}
+#three-right ul li a:hover{
+	text-decoration: underline;
+}
+#second{
+	margin-top:50px;
+	width: 100%;
+	height: 500px;
+	background: url(../img/p4_bg1.png) no-repeat center;
+	text-align: center;
+	font-family: "宋体";
+}
+#second-two{
+	margin-left: 5%;
+	width: 725px;
+	margin-top:50px ;
+}
+#second-two span{
+	font-family: "微软雅黑";
+	font-size: 14px;
+	float: left;
+	line-height: 2em;
+	margin-left: 60%;
+}
+#third{
+	width: 100%;
+	height: 600px;
+	background: url(../img/p2_bg.jpg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	margin: 3rem auto;
+	margin-top: -150px;
+}
+#third-one{
+	margin-top: 150px;
+	
+}
+#third-two{
+	margin-top: 60px;
+	margin-left: 20%;
+}
+#two-a{
+	width: 500px;
+	height:100px ;
+	font-family:"宋体";
+	background-color: #d0322e;
+	border-radius:5px 5px 5px 5px  ;
+	color: white;
+}
+#two-a p a{
+	line-height: 2em;
+	font-size: 19px;
+	text-decoration: none;
+	color: white;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+#two-a span{
+	width: 80%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: antiquewhite;
+}
+#two-b{
+	width: 500px;
+	height:100px ;
+	font-family:"宋体";
+	background-color: #0265AA;
+	border-radius:5px 5px 5px 5px  ;
+	color: white;
+	margin-left: 40%;
+}
+#two-b p a{
+	line-height: 2em;
+	font-size: 19px;
+	text-decoration: none;
+	color: white;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+#two-b span{
+	width: 80%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: antiquewhite;
+}
+#two-c{
+	width: 500px;
+	height:100px ;
+	font-family:"宋体";
+	background-color: #d0322e;
+	border-radius:5px 5px 5px 5px  ;
+	color: white;
+}
+#two-c p a{
+	line-height: 2em;
+	font-size: 19px;
+	text-decoration: none;
+	color: white;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+#two-c span{
+	width: 80%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: antiquewhite;
+}
+#two-d{
+	width: 500px;
+	height:100px ;
+	font-family:"宋体";
+	background-color: #0265AA;
+	border-radius:5px 5px 5px 5px  ;
+	color: white;
+	margin-left: 40%;
+}
+#two-d p a{
+	line-height: 2em;
+	font-size: 19px;
+	text-decoration: none;
+	color: white;
+	font-family: "微软雅黑";
+	font-weight: bold;
+}
+#two-d span{
+	width: 80%;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: antiquewhite;
+}
+#thrid-three{
+	float: left;
+	left:40%;
+}
+#footer{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	vertical-align: middle;
+	text-align: center;
+	width: 100%;
+	height:60px;
+	background-color:#5371c9 ;
+	line-height: 8vh;
+}
